@@ -1,0 +1,13 @@
+delhi to lucknow
+
+kingfisher	20000
+
+air india 	22000
+
+local air	25000
+
+indigo		23000
+
+air go 		21000
+
+gareeb air	15000
